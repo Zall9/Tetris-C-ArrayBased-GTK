@@ -5,4 +5,4 @@ Feel free to use/distribute.
 Feel free to upgrade/modify the code.   
 
 
-/!\There is a segfault bug with a piece rotating. If you manage to fix the bug please post a comment and tell me how ! :) /!\   
+/!\There is a segfault bug with a piece rotating. If you manage to fix the bug please make a PR ! :) /!\   
